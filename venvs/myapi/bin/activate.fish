@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/mnt/d/FastAPI-pybo-Server/venvs/myapi"
+set -gx VIRTUAL_ENV "/mnt/d/FastAPI-pybo-local/venvs/myapi"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
